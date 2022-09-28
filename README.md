@@ -9,6 +9,8 @@
 <p align="left" >
 <a href="https://www.linkedin.com/in/mike-monsalve/" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mike-monsalve" height="30" width="40" /></a>
 
+<a href="mailto:mikemlve123@gmail.com" target="blank"><img align="top" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="mike-monsalve" height="40" /></a>
+
 <!--
 <a href="https://discord.gg/Maikyls#1149" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Maikyls#1149" height="30" width="40" /></a>
 </p>
